@@ -8,4 +8,4 @@ end
 
 array = [1,2,3,4]
 
-my_each(array) { |i| puts i }
+my_each(array) { |i| print i }
